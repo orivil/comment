@@ -3,7 +3,7 @@ package comment_test
 import (
 	"os"
 	"fmt"
-	"github.com/orivil/comment"
+	"gopkg.in/orivil/comment.v0"
 	"log"
 )
 
