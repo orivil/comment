@@ -1,3 +1,8 @@
+// Copyright 2016 orivil Authors. All rights reserved.
+// Use of this source code is governed by a MIT-style
+// license that can be found in the LICENSE file.
+
+// Package comment provide one method for read the comments which in struct, method and function.
 package comment
 
 import (
